@@ -1,0 +1,15 @@
+E:\Workspace\BiCheng\Server\Check\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Console.exe.config
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Console.exe
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Console.pdb
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Check.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\EntityFramework.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\EntityFramework.SqlServer.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Check.pdb
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\Check.dll.config
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\EntityFramework.xml
+E:\Workspace\BiCheng\Server\Check\Console\bin\Debug\EntityFramework.SqlServer.xml
+E:\Workspace\BiCheng\Server\Check\Console\obj\Debug\Console.csproj.CopyComplete
+E:\Workspace\BiCheng\Server\Check\Console\obj\Debug\Console.exe
+E:\Workspace\BiCheng\Server\Check\Console\obj\Debug\Console.pdb
+E:\Workspace\BiCheng\Server\Check\Console\obj\Debug\Console.csprojAssemblyReference.cache

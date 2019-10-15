@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--若要在引用此项目的项目中使用此文件，需在此文件的属性中设置Copy to Output Directory属性-->
+<Config>
+  <SystemName zh-cn="必成制程检核系统" us-en="BiCheng System"></SystemName>
+  
+  <Folder>
+    <Log ShelfLife="">E:\Check\Log</Log>
+    <UserFolder VirtualPath="UserPhoto">E:\Check\File\UserPhoto</UserFolder>
+    <Maintenance>
+      <Photo VirtualPath="MaintenancePhoto">E:\Check\File\Maintenance\Photo</Photo>
+    </Maintenance>
+
+    <Check>
+      <SQLite>
+        <Template ShelfLife="">E:\Check\File\SQLite\Template</Template>
+        <Generated ShelfLife="">E:\Check\File\SQLite\Generated</Generated>
+        <Upload ShelfLife="">E:\Check\File\SQLite\Upload</Upload>
+        <Processing ShelfLife="">E:\Check\File\SQLite\Processing</Processing>
+        <Backup ShelfLife="">E:\Check\File\SQLite\Backup</Backup>
+        <Error ShelfLife="">E:\Check\File\SQLite\Error</Error>
+      </SQLite>
+      <TagSQLite>
+        <Template ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Template</Template>
+        <Generated ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Generated</Generated>
+        <Upload ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Upload</Upload>
+        <Processing ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Processing</Processing>
+        <Backup ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Backup</Backup>
+        <Error ShelfLife="">E:\FEM\File\EquipmentMaintenance\TagSQLite\Error</Error>
+      </TagSQLite>
+      <Import>
+        <Template ExcelVersion="2003">E:\FEM\File\EquipmentMaintenance\Import\Template\Template.xls</Template>
+        <Template ExcelVersion="2007">E:\FEM\File\EquipmentMaintenance\Import\Template\Template.xlsx</Template>
+      </Import>
+      <Photo VirtualPath="EquipmentPatrolPhoto">E:\FEM\File\EquipmentMaintenance\Photo</Photo>
+      <File>E:\FEM\File\EquipmentMaintenance\File</File>
+      <MobileRelease>E:\FEM\MobileRelease\EquipmentMaintenance</MobileRelease>
+      <ReportTemplate>
+        <PFG>
+          <DailyReports>
+            <DailyReport OrganizationUniqueID="b8978769-90c6-4741-85f5-e2a4e883c21c" _2003="E:\20170815.PFG\Public.xls" _2007="E:\20170815.PFG\Public.xlsx"></DailyReport>
+            <DailyReport OrganizationUniqueID="37947df9-99db-4fe8-b675-772fa7e040cc" _2003="E:\20170815.PFG\1.xls" _2007="E:\20170815.PFG\1.xlsx"></DailyReport>
+            <DailyReport OrganizationUniqueID="b7beee76-8af9-4de0-b106-2e56c62255b2" _2003="E:\FEM\File\EquipmentMaintenance\PFG\DailyReport\2.xls" _2007="E:\FEM\File\EquipmentMaintenance\PFG\DailyReport\2.xlsx"></DailyReport>
+            <DailyReport OrganizationUniqueID="8be56067-3158-4803-a51a-54ab0bd1fe99" _2003="E:\FEM\File\EquipmentMaintenance\PFG\DailyReport\3.xls" _2007="E:\FEM\File\EquipmentMaintenance\PFG\DailyReport\3.xlsx"></DailyReport>
+          </DailyReports>
+          <ShiftReport>
+            <_2003>E:\FEM\File\EquipmentMaintenance\PFG\ShiftReport\ShiftReport.xls</_2003>
+            <_2007>E:\FEM\File\EquipmentMaintenance\PFG\ShiftReport\ShiftReport.xlsx</_2007>
+          </ShiftReport>
+        </PFG>
+        <SubstationInspectionReports>E:\FEM\File\ReportTemplate\變電站巡檢抄錶記錄0170905.xls</SubstationInspectionReports>
+      </ReportTemplate>
+    </Check>
+    
+  </Folder>
+
+  <PopulationLimits>
+    <PopulationLimit OrganizationId="" NumberOfPeople="" NumberOfMobilePeople=""></PopulationLimit>
+  </PopulationLimits>
+  
+</Config>

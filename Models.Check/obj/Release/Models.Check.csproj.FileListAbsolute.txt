@@ -1,0 +1,5 @@
+E:\Workspace\BiCheng\Server\Check\Models.Check\bin\Release\Models.Check.dll
+E:\Workspace\BiCheng\Server\Check\Models.Check\bin\Release\Models.Check.pdb
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Release\Models.Check.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Release\Models.Check.dll
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Release\Models.Check.pdb

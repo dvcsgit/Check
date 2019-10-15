@@ -1,0 +1,12 @@
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\Check.dll.config
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\Check.dll
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\Check.pdb
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\EntityFramework.dll
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\EntityFramework.SqlServer.dll
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\EntityFramework.xml
+E:\Workspace\BiCheng\Server\Check\Check\bin\Release\EntityFramework.SqlServer.xml
+E:\Workspace\BiCheng\Server\Check\Check\obj\Release\Check.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Check\obj\Release\Check.csproj.CopyComplete
+E:\Workspace\BiCheng\Server\Check\Check\obj\Release\Check.dll
+E:\Workspace\BiCheng\Server\Check\Check\obj\Release\Check.pdb
+E:\Workspace\BiCheng\Server\Check\Check\obj\Release\Check.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Workspace\BiCheng\Server\Check\Resources\bin\Release\Resources.dll
+E:\Workspace\BiCheng\Server\Check\Resources\bin\Release\Resources.pdb
+E:\Workspace\BiCheng\Server\Check\Resources\bin\Release\en-us\Resources.resources.dll
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.Resource.resources
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.Resource.en-us.resources
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\en-us\Resources.resources.dll
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.dll
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.pdb
+E:\Workspace\BiCheng\Server\Check\Resources\obj\Release\Resources.csprojAssemblyReference.cache

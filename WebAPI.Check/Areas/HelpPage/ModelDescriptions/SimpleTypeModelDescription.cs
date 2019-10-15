@@ -1,0 +1,6 @@
+namespace WebAPI.Check.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

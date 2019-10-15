@@ -1,0 +1,12 @@
+E:\Workspace\Check\Models.Check\bin\Debug\Models.Check.dll
+E:\Workspace\Check\Models.Check\bin\Debug\Models.Check.pdb
+E:\Workspace\Check\Models.Check\obj\Debug\Models.Check.csprojAssemblyReference.cache
+E:\Workspace\Check\Models.Check\obj\Debug\Models.Check.csproj.CoreCompileInputs.cache
+E:\Workspace\Check\Models.Check\obj\Debug\Models.Check.dll
+E:\Workspace\Check\Models.Check\obj\Debug\Models.Check.pdb
+E:\Workspace\BiCheng\Server\Check\Models.Check\bin\Debug\Models.Check.dll
+E:\Workspace\BiCheng\Server\Check\Models.Check\bin\Debug\Models.Check.pdb
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Debug\Models.Check.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Debug\Models.Check.dll
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Debug\Models.Check.pdb
+E:\Workspace\BiCheng\Server\Check\Models.Check\obj\Debug\Models.Check.csprojAssemblyReference.cache

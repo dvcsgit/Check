@@ -1,0 +1,14 @@
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Console.exe.config
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Console.exe
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Console.pdb
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Check.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\EntityFramework.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\EntityFramework.SqlServer.dll
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Check.pdb
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\Check.dll.config
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\EntityFramework.xml
+E:\Workspace\BiCheng\Server\Check\Console\bin\Release\EntityFramework.SqlServer.xml
+E:\Workspace\BiCheng\Server\Check\Console\obj\Release\Console.csproj.CoreCompileInputs.cache
+E:\Workspace\BiCheng\Server\Check\Console\obj\Release\Console.csproj.CopyComplete
+E:\Workspace\BiCheng\Server\Check\Console\obj\Release\Console.exe
+E:\Workspace\BiCheng\Server\Check\Console\obj\Release\Console.pdb
